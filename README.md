@@ -74,9 +74,30 @@ https://user-images.githubusercontent.com/88142527/164990598-cab6ba38-d3b2-4816-
 
 ## Experiment Results on Images 
 
-To test the efficacy of the model, the trained model is tested on several graphic text translation videos and real-time recorded street view videos. The model has a speed of 45 frames per second and hence it is able to detect texts in the video very fast and also identifies the script of the localized text. The screenshots of the sample video and the Yolo detections on the video are displayed. The YOLO detects the text by drawing the bounding box around it and identifies the script as one among 3 classes and displays the confidence score for each detection.
+To check the robustness of the trained YOLOv5 model for text detection and script identification, the model was tested on different scenarios such as different color backgrounds, different font texts, different orientations of the text, disturbances (different lightings in images) in the images and different resolutions, etc. 
+The results are shown below, the undetected sample images are shown in the left side while the detected images by Yolo are shown on the right side.
 
 
+(1) Different color backgrounds
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image0.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image0_detected.jpg" width="250" >
+</p>
+
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image32.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image32_detected.jpg" width="250" >
+</p>
+
+(2) Different Fonts
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image93.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image93_detected.jpg" width="250" >
+</p>
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image110.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image110_detected.jpg" width="250" >
+</p>
 
 
 
