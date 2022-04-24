@@ -61,6 +61,21 @@ After setting the necessary parameters and the training of the model is initiate
 
 Testing of the model is done by uploading the sample video or images into the colab repository. The detection script is set to run by specifying the sample video or images by choosing the best weights from the training process of 100 epochs. The confidence score is set over 0.2 for the correct prediction. The result obtained from the prediction script is stored in the detect file in the repository. The sample video/image is downloaded from the repository which contains the text which is localized and identified using the bounding box. The results obtained from the model are discussed in the below section.
 
+## Video Results (model tested on sample video)
+
+*Detection on graphic text video*
+
+https://user-images.githubusercontent.com/88142527/164990516-493797ee-f1c8-4785-83b8-41a369b9607f.mp4
+
+
+*Detection on pre-recorded real-time street video*
+
+https://user-images.githubusercontent.com/88142527/164990598-cab6ba38-d3b2-4816-8038-f102376b8e52.mp4
+
+## Experiment Results on Images 
+
+To test the efficacy of the model, the trained model is tested on several graphic text translation videos and real-time recorded street view videos. The model has a speed of 45 frames per second and hence it is able to detect texts in the video very fast and also identifies the script of the localized text. The screenshots of the sample video and the Yolo detections on the video are displayed. The YOLO detects the text by drawing the bounding box around it and identifies the script as one among 3 classes and displays the confidence score for each detection.
+
 
 
 
