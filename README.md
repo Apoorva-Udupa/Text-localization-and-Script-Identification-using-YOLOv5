@@ -20,12 +20,11 @@ Text detection and script identification in complex natural scenes can be very c
 
 There are many videos and natural scenes available having the tri-lingual scripts i.e. English, Hindi, and Kannada. But the standard database having the images of these tri-lingual scripts is scarcely found. For the proposed model, two sets of the database were constructed where one was used for training the model while the other database was used for validation. The images were collected from several sources. Most of the images with horizontally oriented scripts were acquired from translation videos and the natural scene images were obtained from the videos having street-view data of places located in Karnataka, Varanasi, Delhi, and Mumbai. The natural scene images have scripts of different orientations, colors, backgrounds, and also with varieties of image resolutions. The images with noise and disturbances were also used to train the model to make it robust and efficient. The training database has images having characters of Hindi, English, and Kannada as well as words from these scripts for better script identification purposes. 
 
-The images are extracted from videos in Youtube platform and real-time videos. The tool used for labelling the text in images for training is [makesense.ai](https://www.makesense.ai/)
+The images are extracted from videos in Youtube platform and real-time videos. The tool used for labelling the text in images for training is [makesense.ai](https://www.makesense.ai/). Some of the images samples accquired from pre-recorded real-time video and graphic text videos are displayed below.
 
 <p float="left">
    <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/doc_images/image003.png" width="400" > 
   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/doc_images/image001.png" width="500" >
- 
 </p>
 
 
