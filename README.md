@@ -137,22 +137,22 @@ The research work has shown substantial contribution in text localization and tr
 Complete documentation of the project along with reference can be viewed here:  [Documentation](https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/text_localization_YOLO.pdf)
 
 ## References
-[Geometrical Features for Detection of Kannada
+- [Geometrical Features for Detection of Kannada
 Text in Images and Documents](http://www.dynamicpublisher.org/gallery/77-ijsrr-d1112.eben.fi.pdf)
 
-[Text Detection and Recognition in Imagery: A Survey](https://ieeexplore.ieee.org/ielaam/34/7116666/6945320-aam.pdf)
+- [Text Detection and Recognition in Imagery: A Survey](https://ieeexplore.ieee.org/ielaam/34/7116666/6945320-aam.pdf)
 
-[Script Identification of Text Words from a Tri-Lingual Document Using Voting Technique](https://www.researchgate.net/publication/42831783_Script_Identification_of_Text_Words_from_a_Tri-Lingual_Document_Using_Voting_Technique)
+- [Script Identification of Text Words from a Tri-Lingual Document Using Voting Technique](https://www.researchgate.net/publication/42831783_Script_Identification_of_Text_Words_from_a_Tri-Lingual_Document_Using_Voting_Technique)
 
-[Arbitrary Shape Hindi Text Detection for Scene Images](https://www.irjet.net/archives/V7/i5/IRJET-V7I51404.pdf)
+- [Arbitrary Shape Hindi Text Detection for Scene Images](https://www.irjet.net/archives/V7/i5/IRJET-V7I51404.pdf)
 
-[Research on text detection method based on improved yolov3](https://ieeexplore.ieee.org/document/9390981)
+- [Research on text detection method based on improved yolov3](https://ieeexplore.ieee.org/document/9390981)
 
-[Synthetic Data for Text Localisation in Natural Images](https://arxiv.org/abs/1604.06646)
+- [Synthetic Data for Text Localisation in Natural Images](https://arxiv.org/abs/1604.06646)
 
-[Video Text Processing Method Based on Image Stitching](https://ieeexplore.ieee.org/document/8980893)
+- [Video Text Processing Method Based on Image Stitching](https://ieeexplore.ieee.org/document/8980893)
 
-[Word-wise Script Identification from Bilingual Documents Based on Morphological Reconstruction](https://ieeexplore.ieee.org/document/4221919)
+- [Word-wise Script Identification from Bilingual Documents Based on Morphological Reconstruction](https://ieeexplore.ieee.org/document/4221919)
 
-[Handwritten Gujarati Script Recognition using YOLO](https://g3indico.tifr.res.in/event/656/contributions/1708/attachments/1698/2045/GSR_Presentation_20-06-20.pdf)
+- [Handwritten Gujarati Script Recognition using YOLO](https://g3indico.tifr.res.in/event/656/contributions/1708/attachments/1698/2045/GSR_Presentation_20-06-20.pdf)
 
