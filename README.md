@@ -78,27 +78,52 @@ To check the robustness of the trained YOLOv5 model for text detection and scrip
 The results are shown below, the undetected sample images are shown in the left side while the detected images by Yolo are shown on the right side.
 
 
-(1) Different color backgrounds
+**(1) Different color backgrounds**
 <p float="left">
-   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image0.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image0_detected.jpg" width="250" >
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image0.jpg" width="300" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image0_detected.jpg" width="300" >
 </p>
 
 <p float="left">
-   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image32.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image32_detected.jpg" width="250" >
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image32.jpg" width="400" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image32_detected.jpg" width="400" >
 </p>
 
-(2) Different Fonts
+
+**(2) Different Fonts**
 <p float="left">
-   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image93.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image93_detected.jpg" width="250" >
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image93.jpg" width="400" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image93_detected.jpg" width="400" >
 </p>
 <p float="left">
-   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image110.jpg" width="250" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image110_detected.jpg" width="250" >
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image110.jpg" width="400" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image110_detected.jpg" width="400" >
 </p>
 
 
+**(3) lens flare in an image**
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image49.jpg" width="400" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image49_detected.jpg" width="400" >
+</p>
 
 
+**(4) Illumination effect in an image**
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image146.jpg" width="400" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/image146_detected.jpg" width="400" >
+</p>
+
+
+**(5) lesser reolution image**
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/img28.png" width="400" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/img28_detected.png" width="400" >
+</p>
+
+
+**(6) Text Orientation**
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/1.png" width="400" >&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/image_results/1_detected.png" width="400" >
+</p>
