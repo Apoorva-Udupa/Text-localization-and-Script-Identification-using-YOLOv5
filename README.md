@@ -22,5 +22,12 @@ There are many videos and natural scenes available having the tri-lingual script
 
 The images are extracted from videos in Youtube platform and real-time videos. The tool used for labelling the text in images for training is [makesense.ai](https://www.makesense.ai/)
 
+<p float="left">
+   <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/doc_images/image003.png" width="400" > 
+  <img src="https://github.com/Apoorva-Udupa/Text-localization-and-Script-Identification-using-YOLOv5/blob/main/doc_images/image001.png" width="500" >
+ 
+</p>
+
+
 
 
